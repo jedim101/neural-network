@@ -1,4 +1,4 @@
 # neural-network
 
-A simple handwritting detect neural network using Tensorflow's mnist dataset and keras to train the model.
-`digits` contains my own handwritten digits that UI used to test.
+A simple handwriting detection neural network using Tensorflow's mnist dataset and keras to train the model.
+`digits` contains my own handwritten digits that I used to test.
